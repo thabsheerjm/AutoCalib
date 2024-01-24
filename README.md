@@ -10,7 +10,7 @@ K  = [[fx, 0, cx],
 The method relies on a calibration target (a checkerboard) to estimate the intrinsic parameters. The steps implemented is described in [2].
 
 ## Results 
-
+<img src="Result/result.png"  alt="Original" width="300"/> 
 ## How to Run 
 ```python
 python3 wrapper.py
