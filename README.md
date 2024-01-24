@@ -20,9 +20,9 @@ The method relies on a calibration target (a checkerboard) to estimate the intri
 python3 wrapper.py
 ```
 ## Acknowledgement
-This is an assignment done towards completion of RBE549 (Computer vision). 
-Course website : https://rbe549.github.io/fall2022/hw/hw1/
+This is an assignment done towards completion of RBE549 (Computer vision)[2]
 
 ## Reference
-[1] https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf  
-[2] https://rbe549.github.io/fall2022/hw/hw1/
+[1] [A Flexible New Technique for Camera
+Calibration](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr98-71.pdf)  
+[2] [RBE59-HW1](https://rbe549.github.io/fall2022/hw/hw1/)
